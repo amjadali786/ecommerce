@@ -6,7 +6,7 @@ import { useCart } from "./CartContext.jsx";
 import products from "./data.json";
 import Login from "./Login";
 import Register from "./Register";
-import ProductDetails from "./ProductDetails";
+import ProductDetails from "./productDetails";
 import Cart from "./Cart";
 import Checkout from "./Checkout";
 import Admin from "./Admin";
