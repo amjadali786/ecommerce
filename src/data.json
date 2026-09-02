@@ -1,0 +1,884 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 1499,
+    "category": "Electronics",
+    "description": "Wireless headphones with clear sound and comfortable ear cushions.",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 2499,
+    "category": "Electronics",
+    "description": "Smart watch with a digital display for everyday use.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "price": 1299,
+    "category": "Electronics",
+    "description": "Portable Bluetooth speaker for music and entertainment.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Wireless Mouse",
+    "price": 699,
+    "category": "Electronics",
+    "description": "Comfortable wireless mouse for computer and laptop use.",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Keyboard",
+    "price": 2199,
+    "category": "Electronics",
+    "description": "Mechanical keyboard designed for comfortable typing and gaming.",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 6,
+    "name": "USB-C Hub",
+    "price": 999,
+    "category": "Electronics",
+    "description": "Compact USB-C hub for connecting multiple devices.",
+    "image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Power Bank",
+    "price": 1199,
+    "category": "Electronics",
+    "description": "Portable power bank for charging smartphones and other devices.",
+    "image": "https://images.unsplash.com/photo-1609592424847-0f7d1a9c7f2b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Phone Stand",
+    "price": 399,
+    "category": "Electronics",
+    "description": "Adjustable phone stand for comfortable viewing on a desk.",
+    "image": "https://images.unsplash.com/photo-1601972602237-8c79241e468b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Laptop Sleeve",
+    "price": 899,
+    "category": "Electronics",
+    "description": "Protective laptop sleeve for carrying and storing your laptop.",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Webcam",
+    "price": 1599,
+    "category": "Electronics",
+    "description": "HD webcam for video calls, meetings and online classes.",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=800&q=80"
+  },
+
+ {
+  "id": 11,
+  "name": "USB Flash Drive",
+  "price": 499,
+  "category": "Electronics",
+  "description": "Compact USB flash drive for storing and transferring files.",
+  "image": "https://images.unsplash.com/photo-1618410320928-25228d811631?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 12, 
+  "name": "Wireless Charger",
+  "price": 799,
+  "category": "Electronics",
+  "description": "Wireless charger for conveniently charging compatible smartphones.",
+  "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 13,
+  "name": "Bluetooth Earbuds",
+  "price": 1799,
+  "category": "Electronics",
+  "description": "Compact Bluetooth earbuds with clear sound for music and calls.",
+  "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 14,
+  "name": "Smartphone Tripod",
+  "price": 899,
+  "category": "Electronics",
+  "description": "Adjustable smartphone tripod for photos, videos and calls.",
+  "image": "https://images.unsplash.com/photo-1606986628253-8f2e4e1f3a0f?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 15,
+  "name": "LED Monitor Light",
+  "price": 1299,
+  "category": "Electronics",
+  "description": "LED monitor light for comfortable desk lighting.",
+  "image": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 16,
+  "name": "Gaming Controller",
+  "price": 1999,
+  "category": "Electronics",
+  "description": "Comfortable gaming controller for everyday gaming.",
+  "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 17,
+  "name": "HDMI Cable",
+  "price": 399,
+  "category": "Electronics",
+  "description": "High-quality HDMI cable for connecting display devices.",
+  "image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 18,
+  "name": "Bluetooth Keyboard",
+  "price": 1499,
+  "category": "Electronics",
+  "description": "Wireless Bluetooth keyboard for comfortable typing.",
+  "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 19,
+  "name": "Running Shoes",
+  "price": 1999,
+  "category": "Footwear",
+  "description": "Comfortable running shoes for daily workouts and exercise.",
+  "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 20,
+  "name": "Casual Sneakers",
+  "price": 1799,
+  "category": "Footwear",
+  "description": "Stylish casual sneakers for comfortable everyday wear.",
+  "image": "https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?auto=format&fit=crop&w=800&q=80"
+},
+ {
+  "id": 11,
+  "name": "USB Flash Drive",
+  "price": 499,
+  "category": "Electronics",
+  "description": "Compact USB flash drive for storing and transferring files.",
+  "image": "https://images.unsplash.com/photo-1618410320928-25228d811631?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 12,
+  "name": "Wireless Charger",
+  "price": 799,
+  "category": "Electronics",
+  "description": "Wireless charger for conveniently charging compatible smartphones.",
+  "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 13,
+  "name": "Bluetooth Earbuds",
+  "price": 1799,
+  "category": "Electronics",
+  "description": "Compact Bluetooth earbuds with clear sound for music and calls.",
+  "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 14,
+  "name": "Smartphone Tripod",
+  "price": 899,
+  "category": "Electronics",
+  "description": "Adjustable smartphone tripod for photos, videos and calls.",
+  "image": "https://images.unsplash.com/photo-1606986628253-8f2e4e1f3a0f?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 15,
+  "name": "LED Monitor Light",
+  "price": 1299,
+  "category": "Electronics",
+  "description": "LED monitor light for comfortable desk lighting.",
+  "image": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 16,
+  "name": "Gaming Controller",
+  "price": 1999,
+  "category": "Electronics",
+  "description": "Comfortable gaming controller for everyday gaming.",
+  "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 17,
+  "name": "HDMI Cable",
+  "price": 399,
+  "category": "Electronics",
+  "description": "High-quality HDMI cable for connecting display devices.",
+  "image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 18,
+  "name": "Bluetooth Keyboard",
+  "price": 1499,
+  "category": "Electronics",
+  "description": "Wireless Bluetooth keyboard for comfortable typing.",
+  "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 19,
+  "name": "Running Shoes",
+  "price": 1999,
+  "category": "Footwear",
+  "description": "Comfortable running shoes for daily workouts and exercise.",
+  "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 20,
+  "name": "Casual Sneakers",
+  "price": 1799,
+  "category": "Footwear",
+  "description": "Stylish casual sneakers for comfortable everyday wear.",
+  "image": "https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 21,
+  "name": "Sports Shoes",
+  "price": 2299,
+  "category": "Footwear",
+  "description": "Lightweight sports shoes for active use and workouts.",
+  "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 22,
+  "name": "Formal Shoes",
+  "price": 2499,
+  "category": "Footwear",
+  "description": "Classic formal shoes for office and special occasions.",
+  "image": "https://images.unsplash.com/photo-1614252369475-531eba835eb1?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 23,
+  "name": "Loafers",
+  "price": 1599,
+  "category": "Footwear",
+  "description": "Comfortable loafers with a clean and stylish design.",
+  "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 24,
+  "name": "Flip Flops",
+  "price": 399,
+  "category": "Footwear",
+  "description": "Lightweight flip flops for casual everyday use.",
+  "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 25,
+  "name": "Hiking Boots",
+  "price": 2999,
+  "category": "Footwear",
+  "description": "Durable hiking boots designed for outdoor activities.",
+  "image": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 26,
+  "name": "Canvas Shoes",
+  "price": 999,
+  "category": "Footwear",
+  "description": "Comfortable canvas shoes for casual everyday outfits.",
+  "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 27,
+  "name": "Slippers",
+  "price": 349,
+  "category": "Footwear",
+  "description": "Soft and comfortable slippers for everyday use.",
+  "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 28,
+  "name": "Sandals",
+  "price": 699,
+  "category": "Footwear",
+  "description": "Comfortable sandals for casual outdoor wear.",
+  "image": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 29,
+  "name": "Cotton T-Shirt",
+  "price": 599,
+  "category": "Clothing",
+  "description": "Soft cotton t-shirt suitable for comfortable everyday wear.",
+  "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 30,
+  "name": "Denim Jeans",
+  "price": 1299,
+  "category": "Clothing",
+  "description": "Classic denim jeans with a comfortable everyday fit.",
+  "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=800&q=80"
+},
+  {
+  "id": 31,
+  "name": "Hoodie",
+  "price": 1199,
+  "category": "Clothing",
+  "description": "Warm and comfortable hoodie for casual everyday wear.",
+  "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 32,
+  "name": "Denim Jacket",
+  "price": 1899,
+  "category": "Clothing",
+  "description": "Classic denim jacket for casual everyday outfits.",
+  "image": "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 33,
+  "name": "Formal Shirt",
+  "price": 999,
+  "category": "Clothing",
+  "description": "Smart formal shirt suitable for office and special occasions.",
+  "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 34,
+  "name": "Track Pants",
+  "price": 799,
+  "category": "Clothing",
+  "description": "Comfortable track pants for exercise and casual activities.",
+  "image": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 35,
+  "name": "Summer Dress",
+  "price": 1399,
+  "category": "Clothing",
+  "description": "Lightweight summer dress designed for comfortable warm-weather wear.",
+  "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 36,
+  "name": "Tote Bag",
+  "price": 599,
+  "category": "Bags",
+  "description": "Spacious tote bag for shopping and everyday carrying.",
+  "image": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 37,
+  "name": "Wallet",
+  "price": 499,
+  "category": "Bags",
+  "description": "Compact wallet for carrying cards and cash.",
+  "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 38,
+  "name": "Leather Wallet",
+  "price": 899,
+  "category": "Bags",
+  "description": "Classic leather wallet with a practical everyday design.",
+  "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 39,
+  "name": "Gym Bag",
+  "price": 1199,
+  "category": "Bags",
+  "description": "Spacious gym bag for carrying workout clothes and essentials.",
+  "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 40,
+  "name": "Messenger Bag",
+  "price": 1399,
+  "category": "Bags",
+  "description": "Practical messenger bag for work, travel and everyday use.",
+  "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=800&q=80"
+},
+
+{
+  "id": 41,
+  "name": "Face Wash",
+  "price": 349,
+  "category": "Beauty",
+  "description": "Gentle face wash for daily cleansing and skincare.",
+  "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 42,
+  "name": "Moisturizer",
+  "price": 499,
+  "category": "Beauty",
+  "description": "Daily moisturizer for soft and hydrated skin.",
+  "image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 43,
+  "name": "Sunscreen SPF 50",
+  "price": 599,
+  "category": "Beauty",
+  "description": "SPF 50 sunscreen for everyday protection from sunlight.",
+  "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 44,
+  "name": "Lip Balm",
+  "price": 199,
+  "category": "Beauty",
+  "description": "Moisturizing lip balm for soft and comfortable lips.",
+  "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 45,
+  "name": "Body Lotion",
+  "price": 399,
+  "category": "Beauty",
+  "description": "Moisturizing body lotion for soft and hydrated skin.",
+  "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 46,
+  "name": "Shampoo",
+  "price": 449,
+  "category": "Beauty",
+  "description": "Daily shampoo for clean and healthy-looking hair.",
+  "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 47,
+  "name": "Conditioner",
+  "price": 449,
+  "category": "Beauty",
+  "description": "Hair conditioner for smooth and manageable hair.",
+  "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 48,
+  "name": "Perfume",
+  "price": 999,
+  "category": "Beauty",
+  "description": "Elegant fragrance for everyday wear and special occasions.",
+  "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 49,
+  "name": "Makeup Brush Set",
+  "price": 699,
+  "category": "Beauty",
+  "description": "Makeup brush set for smooth and precise makeup application.",
+  "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 50,
+  "name": "Hair Dryer",
+  "price": 1299,
+  "category": "Beauty",
+  "description": "Hair dryer for quick drying and everyday hair styling.",
+  "image": "https://images.unsplash.com/photo-1522338242992-e1a54906a8da?auto=format&fit=crop&w=800&q=80"
+},
+ {
+  "id": 51,
+  "name": "Coffee Maker",
+  "price": 2499,
+  "category": "Home",
+  "description": "Coffee maker for preparing fresh coffee at home.",
+  "image": "https://images.unsplash.com/photo-1517668808823-7d00a95a7e6a?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 52,
+  "name": "Electric Kettle",
+  "price": 1199,
+  "category": "Home",
+  "description": "Electric kettle for quickly boiling water at home or office.",
+  "image": "https://images.unsplash.com/photo-1594213114663-d94db9b171e1?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 53,
+  "name": "Water Bottle",
+  "price": 599,
+  "category": "Home",
+  "description": "Reusable water bottle for carrying water throughout the day.",
+  "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 54,
+  "name": "Desk Lamp",
+  "price": 899,
+  "category": "Home",
+  "description": "Modern desk lamp for study and workspace lighting.",
+  "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 55,
+  "name": "Table Clock",
+  "price": 499,
+  "category": "Home",
+  "description": "Compact table clock for keeping track of time.",
+  "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 56,
+  "name": "Cushion",
+  "price": 399,
+  "category": "Home",
+  "description": "Soft decorative cushion for comfortable home seating.",
+  "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 57,
+  "name": "Bedsheet Set",
+  "price": 999,
+  "category": "Home",
+  "description": "Comfortable bedsheet set for everyday bedroom use.",
+  "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 58,
+  "name": "Pillow",
+  "price": 599,
+  "category": "Home",
+  "description": "Soft pillow designed for comfortable sleeping.",
+  "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 59,
+  "name": "Storage Box",
+  "price": 499,
+  "category": "Home",
+  "description": "Practical storage box for organizing household items.",
+  "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 60,
+  "name": "Wall Clock",
+  "price": 799,
+  "category": "Home",
+  "description": "Simple wall clock for home and office spaces.",
+  "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=800&q=80"
+},
+ {
+  "id": 61,
+  "name": "Notebook",
+  "price": 199,
+  "category": "Stationery",
+  "description": "Quality notebook for writing, notes and everyday use.",
+  "image": "https://images.unsplash.com/photo-1531346680769-a1d79b57de5b?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 62,
+  "name": "Planner",
+  "price": 299,
+  "category": "Stationery",
+  "description": "Daily planner for organizing tasks, schedules and notes.",
+  "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 63,
+  "name": "Ball Pen Set",
+  "price": 149,
+  "category": "Stationery",
+  "description": "Smooth-writing ball pens for school, college and office use.",
+  "image": "https://images.unsplash.com/photo-1585336261022-680e295ce3fe?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 64,
+  "name": "Marker Set",
+  "price": 249,
+  "category": "Stationery",
+  "description": "Colorful marker set for writing, drawing and highlighting.",
+  "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 65,
+  "name": "Highlighter Set",
+  "price": 199,
+  "category": "Stationery",
+  "description": "Bright highlighters for marking important notes and text.",
+  "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 66,
+  "name": "Sketchbook",
+  "price": 299,
+  "category": "Stationery",
+  "description": "Blank sketchbook for drawing, sketching and creative work.",
+  "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 67,
+  "name": "Pencil Set",
+  "price": 129,
+  "category": "Stationery",
+  "description": "Graphite pencil set for writing, drawing and sketching.",
+  "image": "https://images.unsplash.com/photo-1516962215378-7fa2e137ae93?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 68,
+  "name": "Desk Organizer",
+  "price": 349,
+  "category": "Stationery",
+  "description": "Desk organizer for keeping pens, pencils and small items arranged.",
+  "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 69,
+  "name": "Sticky Notes",
+  "price": 99,
+  "category": "Stationery",
+  "description": "Colorful sticky notes for reminders, messages and quick notes.",
+  "image": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 70,
+  "name": "File Folder",
+  "price": 149,
+  "category": "Stationery",
+  "description": "Durable file folder for organizing documents and papers.",
+  "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=800&q=80"
+},
+ {
+  "id": 71,
+  "name": "Yoga Mat",
+  "price": 799,
+  "category": "Sports",
+  "description": "Non-slip yoga mat for exercise, stretching and yoga.",
+  "image": "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 72,
+  "name": "Dumbbells",
+  "price": 1499,
+  "category": "Sports",
+  "description": "Pair of dumbbells for strength training and home workouts.",
+  "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 73,
+  "name": "Skipping Rope",
+  "price": 299,
+  "category": "Sports",
+  "description": "Lightweight skipping rope for cardio and fitness workouts.",
+  "image": "https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 74,
+  "name": "Football",
+  "price": 699,
+  "category": "Sports",
+  "description": "Durable football suitable for training and outdoor games.",
+  "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 75,
+  "name": "Basketball",
+  "price": 799,
+  "category": "Sports",
+  "description": "Basketball designed for practice, training and outdoor games.",
+  "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 76,
+  "name": "Cricket Bat",
+  "price": 1599,
+  "category": "Sports",
+  "description": "Wooden cricket bat suitable for practice and recreational matches.",
+  "image": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 77,
+  "name": "Cricket Ball",
+  "price": 299,
+  "category": "Sports",
+  "description": "Durable cricket ball for practice and recreational cricket.",
+  "image": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 78,
+  "name": "Tennis Racket",
+  "price": 1899,
+  "category": "Sports",
+  "description": "Lightweight tennis racket for practice and recreational play.",
+  "image": "https://images.unsplash.com/photo-1617083934555-5c5f4e6e2c8b?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 79,
+  "name": "Resistance Bands",
+  "price": 599,
+  "category": "Sports",
+  "description": "Resistance bands for strength training, stretching and workouts.",
+  "image": "https://images.unsplash.com/photo-1597452485669-2c7bb5fef90d?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 80,
+  "name": "Gym Gloves",
+  "price": 499,
+  "category": "Sports",
+  "description": "Comfortable gym gloves for weight training and workouts.",
+  "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=800&q=80"
+},
+ {
+  "id": 81,
+  "name": "Ceramic Mug",
+  "price": 299,
+  "category": "Kitchen",
+  "description": "Ceramic coffee mug for tea, coffee and everyday drinks.",
+  "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 82,
+  "name": "Frying Pan",
+  "price": 899,
+  "category": "Kitchen",
+  "description": "Non-stick frying pan for everyday cooking.",
+  "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 83,
+  "name": "Dinner Plate Set",
+  "price": 999,
+  "category": "Kitchen",
+  "description": "Dinner plate set for serving meals at home.",
+  "image": "https://images.unsplash.com/photo-1603199506016-b9a594b593c0?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 84,
+  "name": "Cutlery Set",
+  "price": 799,
+  "category": "Kitchen",
+  "description": "Complete cutlery set for everyday dining.",
+  "image": "https://images.unsplash.com/photo-1584346133934-a3afd2a33c4c?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 85,
+  "name": "Kitchen Knife",
+  "price": 499,
+  "category": "Kitchen",
+  "description": "Sharp kitchen knife for everyday food preparation.",
+  "image": "https://images.unsplash.com/photo-1566454825481-9c31c6e4c0d7?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 86,
+  "name": "Lunch Box",
+  "price": 599,
+  "category": "Kitchen",
+  "description": "Reusable lunch box for carrying meals to work or school.",
+  "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 87,
+  "name": "Spice Rack",
+  "price": 699,
+  "category": "Kitchen",
+  "description": "Kitchen spice rack for keeping spices organized.",
+  "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 88,
+  "name": "Glass Bottle Set",
+  "price": 799,
+  "category": "Kitchen",
+  "description": "Reusable glass bottle set for storing and serving drinks.",
+  "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 89,
+  "name": "Chopping Board",
+  "price": 399,
+  "category": "Kitchen",
+  "description": "Durable chopping board for preparing vegetables and food.",
+  "image": "https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 90,
+  "name": "Food Storage Containers",
+  "price": 899,
+  "category": "Kitchen",
+  "description": "Food storage containers for keeping kitchen ingredients organized.",
+  "image": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 91,
+  "name": "Plant Pot",
+  "price": 299,
+  "category": "Garden",
+  "description": "Decorative plant pot suitable for indoor and outdoor plants.",
+  "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 92,
+  "name": "Watering Can",
+  "price": 399,
+  "category": "Garden",
+  "description": "Practical watering can for watering indoor and outdoor plants.",
+  "image": "https://images.unsplash.com/photo-1599685315640-0b2b4d5f8b1e?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 93,
+  "name": "Gardening Gloves",
+  "price": 249,
+  "category": "Garden",
+  "description": "Protective gardening gloves for planting and everyday garden work.",
+  "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 94,
+  "name": "Garden Tool Set",
+  "price": 699,
+  "category": "Garden",
+  "description": "Garden tool set for planting, digging and maintaining plants.",
+  "image": "https://images.unsplash.com/photo-1599685315640-0b2b4d5f8b1e?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 95,
+  "name": "Artificial Plant",
+  "price": 499,
+  "category": "Garden",
+  "description": "Decorative artificial plant for adding greenery to indoor spaces.",
+  "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 96,
+  "name": "LED String Lights",
+  "price": 599,
+  "category": "Garden",
+  "description": "Decorative LED string lights for outdoor and garden spaces.",
+  "image": "https://images.unsplash.com/photo-1517457210348-703079e57d4b?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 97,
+  "name": "Outdoor Lantern",
+  "price": 899,
+  "category": "Garden",
+  "description": "Outdoor lantern for decorative and practical garden lighting.",
+  "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 98,
+  "name": "Plant Stand",
+  "price": 799,
+  "category": "Garden",
+  "description": "Decorative plant stand for displaying plants at home.",
+  "image": "https://images.unsplash.com/photo-1598880940080-ff9a29891b85?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 99,
+  "name": "Seed Starter Kit",
+  "price": 349,
+  "category": "Garden",
+  "description": "Seed starter kit for growing plants at home.",
+  "image": "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "id": 100,
+  "name": "Pruning Shears",
+  "price": 399,
+  "category": "Garden",
+  "description": "Sharp pruning shears for trimming plants and garden branches.",
+  "image": "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&w=800&q=80"
+}
+]
